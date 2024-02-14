@@ -8,4 +8,4 @@ if not exist ExcelUnlocker.py (
     echo ExcelUnlocker.py does not exist. Please check the file path and try again.
     exit /b
 )
-python PDFUnlocker.py
+python ExcelUnlocker.py
